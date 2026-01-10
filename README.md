@@ -1,11 +1,5 @@
 # S&P 500 Stock Price Forecasting
 
-## Quick Start
-```bash
-cd ~/Documents/NUS\ stuff/Data\ Science\ Practice/time_series/SP500\ Project
-jupyter notebook src/script.ipynb
-```
-
 ## Folder Structure
 ```
 .
