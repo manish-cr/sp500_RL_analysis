@@ -1,0 +1,15 @@
+# Main requirements for S&P 500 Time Series Project
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+torch
+torchvision
+torchaudio
+kagglehub
+# For CML and GitHub Actions
+cml
+# Optional: for notebook support
+jupyter
