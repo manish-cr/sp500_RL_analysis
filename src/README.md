@@ -26,7 +26,7 @@ pip install -r requirements.txt
     ├── script.ipynb           # Main notebook (data → models → forecast)
     ├── baseline_script.ipynb  # Simplified version
     ├── best_*.pth             # Trained model weights (RNN, LSTM, GRU)
-
+```
 # S&P 500 Time Series Project
 
 ## Project Structure
@@ -37,7 +37,7 @@ pip install -r requirements.txt
   - `viz/` - All plots and visualization code are now in this folder
      - `plotting.py` - Visualization functions
      - All output plots are saved here as PNG files
-```
+
 ## Usage
 
 1. Install dependencies:
